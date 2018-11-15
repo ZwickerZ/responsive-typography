@@ -52,7 +52,7 @@ blockquote {
   color: #999;
 }
 
-ol {
+article ol {
   padding-left: 1em;
 }
 
@@ -64,7 +64,7 @@ ol {
   }
 
   h1,
-  p {
+  article p {
     margin: 1.4rem 0;
   }
 
@@ -87,7 +87,7 @@ ol {
   }
 
   h1,
-  p {
+  article p {
     margin: 1.5rem 0;
   }
 
