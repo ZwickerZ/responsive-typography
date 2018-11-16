@@ -18,8 +18,12 @@ html {
   box-sizing: inherit;
 }
 
+article p {
+  margin: 1.3rem 0;
+}
+
 body {
-  padding: 0 1rem;
+  margin: 1em;
 }
 
 article {
@@ -44,6 +48,7 @@ article header p {
 }
 
 article > p:last-child {
+  padding: 0 0 1.3rem;
   border-bottom: 1px solid #999;
 }
 
