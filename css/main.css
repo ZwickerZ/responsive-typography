@@ -10,7 +10,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  font: 100%/1.3 serif;
+  font: normal 100%/1.3 serif;
   color: #222;
 }
 
@@ -23,7 +23,7 @@ article p {
 }
 
 body {
-  margin: 0 1em;
+  margin: 0rem;
 }
 
 article {
@@ -31,6 +31,7 @@ article {
   max-width: 43em;
   margin-left: auto;
   margin-right: auto;
+  padding: 1em;
 }
 
 article h1 {
